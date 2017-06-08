@@ -1,0 +1,38 @@
+.button-red {
+    background-color: red;
+    color: ;
+		height: 40px;
+    width: 50px;
+	
+}
+
+.button-green {
+    background-color: green;
+    color: green;
+		height: 40px;
+    width: 50px;
+	
+}
+
+.button-primary {
+    background-color: #f58220;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0; 
+    cursor: pointer;
+    border: 0;
+    border-radius: 6px;
+    height: 40px;
+    width: 100%;
+}
+
+.circle-light  {
+			height: 50px;
+	    width: 50px;
+			border-radius: 25px;
+			
+		}
